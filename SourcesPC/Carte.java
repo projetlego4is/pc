@@ -1,5 +1,6 @@
 //Carte fictive représentant l'environnement du robot
 // Salut c'est bob
+package SourcesPC;
 
 public class Carte {
 	
