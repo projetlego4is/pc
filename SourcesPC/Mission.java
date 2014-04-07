@@ -197,8 +197,8 @@ public class Mission {
 	}
 	
 	//************************************************************************************************//
-		//*fonction qui calcule le nouvel itérateur pour ne pas que le robot s'arrête tous les point****//
-		//************************************************************************************************//
+	//*fonction qui calcule le nouvel itérateur pour ne pas que le robot s'arrête tous les point****//
+	//************************************************************************************************//
 	
 	
 	//calcul du prochain point pour avec le même x ou même y pour pas
